@@ -1,8 +1,0 @@
-../Core/Src/semaforo_peatonal.c:11:12:button_pressed	1
-../Core/Src/semaforo_peatonal.c:16:12:timer_expired	1
-../Core/Src/semaforo_peatonal.c:22:6:on_state_verde	1
-../Core/Src/semaforo_peatonal.c:29:6:on_state_verde_parpadeo	1
-../Core/Src/semaforo_peatonal.c:34:6:on_state_rojo	1
-../Core/Src/semaforo_peatonal.c:41:6:on_state_rojo_parpadeo	1
-../Core/Src/semaforo_peatonal.c:72:6:semaforo_peatonal_init	1
-../Core/Src/semaforo_peatonal.c:85:6:semaforo_peatonal_update	1
